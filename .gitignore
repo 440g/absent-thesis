@@ -22,6 +22,5 @@ kaggle.json
 /dataset_test
 /kaggle-codes
 /cvn
-data_preprocessing.py
-data_preprocessing.ipynb
+/test
 README_pre.md
