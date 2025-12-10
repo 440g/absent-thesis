@@ -17,10 +17,11 @@ Temporary Items
 .apdisk
 *.icloud
 kaggle.json
-
+__pycache__
 /dataset
-/dataset_test
-/kaggle-codes
-/cvn
-/test
-README_pre.md
+/trashcan
+
+/src
+/tests
+/logs
+/results_diachronic
