@@ -1,12 +1,11 @@
 ## 디렉토리 정리
-1. 파일 경로 엄청나게 꼬여있음. 정리 필요함
+1. 파일 경로, 코드 경로, 로그 저장 경로 정리
 2. 데이터셋 안쓰는거 확인 후 지워야됨
-3. 코드 경로, 로그 저장 경로도 꼬여있음 ㅠㅠ
+3. 산출물 정
 
 ## 실행및점검
-1. diachronic_word_embeddng(학습 오래걸림, 돌리는중)
-2. semantic_shift_analysis(금방함, 작성완)
-3. semantic_shift_viz(금방함, 작성중)
+1. semantic_shift_analysis(실행중)
+2. report_visualization.py
 
 ## 보고서
 1. 리드미 정돈(실행순서 설명 등등)

@@ -20,8 +20,9 @@ kaggle.json
 __pycache__
 /dataset
 /trashcan
+/tests/logs/
 
-/src
 /tests
 /logs
-/results_diachronic
+/results
+/src

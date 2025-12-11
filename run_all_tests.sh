@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# 프로젝트 루트 기준
 ROOT_DIR=$(dirname "$(realpath "$0")")
 
 LOG_DIR="$ROOT_DIR/logs"
