@@ -25,4 +25,5 @@ __pycache__
 /tests
 /logs
 /results
-/src
+# /src
+/figures
